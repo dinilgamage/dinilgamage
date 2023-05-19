@@ -1,11 +1,7 @@
 ### Hey! I'm Dinil :))
 Currently pursuing my degree in Computer Science, specializing in Software Development! 🤠
 ### More about me...
-const Dinil = {
-  name: "Dinil",
-  location: "Sri Lanka",
-  interests: [Tech, Coding, Memes]
-}
+
 
 <!--
 **dinilgamage/dinilgamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
