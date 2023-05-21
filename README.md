@@ -1,5 +1,6 @@
 ### Hey! I'm Dinil :))
 Currently pursuing my degree in Computer Science, specializing in Software Development! 🤠
+I have a strong foundation in Java, C#, CSS, HTML, JavaScript and SQL
 ### More about me...
 ```javascript
 const Dinil = {
