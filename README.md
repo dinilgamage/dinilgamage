@@ -6,7 +6,7 @@ Currently pursuing my degree in Computer Science, specializing in Software Devel
 const Dinil = {
   name: "Dinil",
   location: "Sri Lanka",
-  interests: [Tech, Memes, Coding]
+  interests: [tech, memes, coding]
 }
 ```
 ### My Programming Languages
