@@ -23,6 +23,7 @@ Here are the programming languages and frameworks I'm working with currently:
   <img src="https://img.shields.io/badge/Flutter-5E5E5E?style=for-the-badge&logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/Laravel-5E5E5E?style=for-the-badge&logo=laravel" alt="Laravel">
   <img src="https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Express-5E5E5E?style=for-the-badge&logo=express" alt="Express">
   <img src="https://img.shields.io/badge/SQL-5E5E5E?style=for-the-badge&logo=sql" alt="SQL">
 </p>
 
