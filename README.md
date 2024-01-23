@@ -14,41 +14,21 @@ const Dinil = {
 Here are the programming languages and frameworks I'm working with currently:
 
 <p align="center">
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-5E5E5E?style=for-the-badge&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/Java-5E5E5E?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/Python-5E5E5E?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Flutter-5E5E5E?style=for-the-badge&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/Laravel-5E5E5E?style=for-the-badge&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/Next-5E5E5E?style=for-the-badge&logo=next" alt="Next">
+  <img src="https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-5E5E5E?style=for-the-badge&logo=bootstrap" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Tailwind-5E5E5E?style=for-the-badge&logo=tailwind" alt="Express">
+  <img src="https://img.shields.io/badge/SQL-5E5E5E?style=for-the-badge&logo=sql" alt="SQL">
   
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
-  
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-  
-  <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
-  
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-  
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  
-  <!-- Flutter -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
-  
-  <!-- Laravel -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge">
-  
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-  
-  <!-- Express -->
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge">
-  
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL Badge">
-  
-  <!-- Your GitHub stats badge -->
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social" alt="GitHub Followers Badge">
 </p>
 
 
