@@ -16,7 +16,7 @@ const Dinil = {
 
 ### My Programming Languages
 
-Here are the programming languages and frameworks I'm working with currently:
+Here are the programming languages, frameworks and tools I'm working with currently:
 
 <p align="center">
 <p align="left">
