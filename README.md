@@ -51,6 +51,9 @@ Here are the programming languages, frameworks and tools I'm working with curren
 </p>
 
 </p>
+<p align="left">
+  <img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Rick and Roll" width="250" />
+</p>
 
 
 
