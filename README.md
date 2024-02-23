@@ -1,4 +1,4 @@
-### Hey! I'm Dinil :))
+### Hey! I'm Dinil
 Currently pursuing my degree in Computer Science, specializing in Software Development! 🤠 I love learning new things and advancing my tech journey
 
 ### More about me...
@@ -20,31 +20,7 @@ Here are the programming languages, frameworks and tools I'm working with curren
 
 <p align="center">
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" /> </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" /> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" /> </a>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="Express" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /> </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /> </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /> </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" /> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /> </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,java,python,dart,flutter,laravel,react,nextjs,express,bootstrap,tailwind,androidstudio,kotlin,nodejs,figma,git,postman,firebase,mysql,sqlite,sqlserver,oracle" alt="Languages" />
 </p>
 </p>
 
@@ -52,6 +28,17 @@ Here are the programming languages, frameworks and tools I'm working with curren
   <img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Rick and Roll" width="250" />
 </p>
 
+<div align="left" style="margin-bottom:20px;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinilgamage&show_icons=true&theme=dark&locale=en&layout=compact" alt="dinil" /></p>
+</div>
+
+<div align="left" style="margin-bottom:20px;">
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dinilgamage&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="dinil" /></p>
+</div>
+
+<div align="left">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinilgamage&theme=dark" alt="dinil" /></p>
+</div>
 
 
 <!--
