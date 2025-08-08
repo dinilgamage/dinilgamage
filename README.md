@@ -1,5 +1,5 @@
 ### Hey! I'm Dinil
-Currently pursuing my degree in Computer Science, specializing in Software Development! 🤠 I love learning new things and advancing my tech journey
+FullStack Engineer and AI ML enthusiast! 🤠 I love learning new things and advancing my tech journey
 
 ### More about me...
 ```javascript
