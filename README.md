@@ -1,12 +1,12 @@
 ### Hey! I'm Dinil
-FullStack Engineer and AI ML enthusiast! 🤠 I love learning new things and advancing my tech journey
+Software Engineer specializing in AI-powered full-stack systems! (AI • FULL-STACK • CLOUD) 🤠 I love learning new things and advancing my tech journey
 
 ### More about me...
 ```javascript
 const Dinil = {
   name: "Dinil",
   location: "Sri Lanka",
-  interests: ["Tech", "UI", "Coding"]
+  interests: ["Tech", "Coding", "AI", "Cloud"]
 }
 ```
 <h3 align="left">Connect with me:</h3>
@@ -14,6 +14,7 @@ const Dinil = {
 <a href="https://linkedin.com/in/www.linkedin.com/in/dinil-gamage-872636248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dinil-gamage-872636248" height="30" width="40" /></a>
 </p>
 
+<!--
 ### My Programming Languages
 
 Here are the programming languages, frameworks and tools I'm working with currently:
@@ -39,6 +40,7 @@ Here are the programming languages, frameworks and tools I'm working with curren
 <div align="left">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinilgamage&theme=dark" alt="dinil" /></p>
 </div>
+-->
 
 
 <!--
