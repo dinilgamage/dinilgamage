@@ -24,6 +24,7 @@ Here are the programming languages, frameworks and tools I'm working with curren
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,python,dart,flutter,laravel,react,nextjs,express,bootstrap,tailwind,androidstudio,kotlin,nodejs,figma,git,postman,firebase,mysql,sqlite,sqlserver,oracle" alt="Languages" />
 </p>
 </p>
+-->
 
 <p align="left">
   <img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif" alt="Rick and Roll" width="250" />
@@ -40,7 +41,7 @@ Here are the programming languages, frameworks and tools I'm working with curren
 <div align="left">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinilgamage&theme=dark" alt="dinil" /></p>
 </div>
--->
+
 
 
 <!--
